@@ -1,0 +1,49 @@
+h1{
+text-align: center;
+color: blueviolet;
+text-decoration: underline;
+
+}
+
+#shipping{
+    text-align: center;
+color: blueviolet;
+text-decoration: underline;
+    
+}
+
+
+#paragraph{ 
+    font-weight: bolder;
+}
+
+.one{
+    margin-left: 30px;
+}
+
+#benefits{
+    background-color: blue;
+margin: 60px;
+padding: 40px;
+border-radius: 40px;
+}
+
+#benefits button{
+    background-color: blue;
+color: rgb(133, 133, 40);
+}
+
+#benefits:hover{
+background-color: rgb(70, 30, 108);
+
+}
+#VIP{
+display: flex;
+    gap: 10px;
+
+}
+
+
+
+
+

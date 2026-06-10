@@ -1,0 +1,19 @@
+h1{
+    color: rgb(236, 232, 240);
+     background-color: rgb(21, 18, 25);
+     line-height: 100px;
+     text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px
+}
+    h1:hover{
+        background-color: rgb(92, 51, 130);
+        color: aqua 00px;
+    height: 270px;
+}

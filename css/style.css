@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+body{
+min-height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(139, 107, 61);
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5em;
+}
+.box{
+    max-width: 600px;
+}
+h1{
+    font-size: 1.2em;
+}
+
+iframe{
+    border-radius: 2em;
+    border: none;
+    width: 500px;
+    height: 500px;
+    opacity: 0.7;
+    transition: 0.3s ease-in-out;
+}
+
+iframe{
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
